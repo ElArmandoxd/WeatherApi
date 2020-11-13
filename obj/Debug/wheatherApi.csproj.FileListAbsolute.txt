@@ -1,0 +1,13 @@
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\bin\Debug\wheatherApi.exe.config
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\bin\Debug\wheatherApi.exe
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\bin\Debug\wheatherApi.pdb
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\obj\Debug\wheatherApi.csprojAssemblyReference.cache
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\obj\Debug\wheatherApi.Properties.Resources.resources
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\obj\Debug\wheatherApi.csproj.GenerateResource.cache
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\obj\Debug\wheatherApi.csproj.CoreCompileInputs.cache
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\obj\Debug\wheatherApi.exe
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\obj\Debug\wheatherApi.pdb
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\obj\Debug\wheatherApi.Form1.resources
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arman\source\repos\wheatherApi\wheatherApi\obj\Debug\wheatherApi.csproj.CopyComplete
